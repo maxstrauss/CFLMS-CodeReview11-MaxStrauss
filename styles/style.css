@@ -1,0 +1,85 @@
+.top {
+  width: 60%;
+  padding: 5%;
+  margin: auto;
+  background-color: #31718C !important;
+  text-align: center;
+}
+
+.container-fluid {
+  text-align: center;
+  margin: auto;
+}
+
+.box {
+  padding: 8px;
+  margin: 2px;
+  margin: auto;
+  background-color: #7CBCD8 !important;
+  text-align: center;
+}
+
+.add-box {
+  width: 60%;
+  padding: 5%;
+  margin: auto;
+  background-color: #7CBCD8;
+  text-align: center;
+  padding: 5%;
+}
+
+table {
+  width: 90%;
+  text-align: justify;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  background-color: white;
+}
+
+.btn {
+  width: 150px;
+  margin: 5px;
+  background-color: grey;
+}
+
+.btn-sm {
+  width: 150px;
+  margin: 5px;
+  background-color: grey;
+}
+
+.button-x {
+  width: 150px;
+  margin: 5px;
+  background-color: grey;
+}
+
+.button-x footer {
+  margin-top: 2%;
+  background-color: #31718C !important;
+  color: black;
+  text-align: center;
+  height: 150px;
+}
+
+.button-x .box {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.button-x .top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+.button-x .index-color {
+  color: #7CBCD8;
+}
+/*# sourceMappingURL=style.css.map */
